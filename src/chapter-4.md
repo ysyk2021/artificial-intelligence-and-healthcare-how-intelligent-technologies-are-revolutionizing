@@ -1,5 +1,3 @@
-Chapter 4: Impact of AI on Healthcare
-=====================================
 
 Artificial intelligence (AI) has the potential to revolutionize the healthcare industry, from improving the accuracy of diagnoses and treatments to enabling personalized medicine. In this chapter, we will explore the impact of AI on healthcare.
 

@@ -1,5 +1,3 @@
-Overview of Artificial Intelligence and Healthcare
-===========================================================================
 
 Artificial intelligence (AI) is revolutionizing healthcare, offering new opportunities to improve patient outcomes, enhance medical research, and reduce costs. In this chapter, we will provide an overview of AI and its applications in the healthcare industry.
 

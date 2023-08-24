@@ -1,5 +1,3 @@
-Predictions for the Future of AI and Healthcare
-=======================================================================================
 
 The future of artificial intelligence (AI) in healthcare is incredibly promising, with the potential to revolutionize medical research and patient care. In this chapter, we will explore some predictions for the future of AI in healthcare.
 

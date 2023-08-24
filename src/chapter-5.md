@@ -1,5 +1,3 @@
-Chapter 5: Challenges and Risks Associated with AI in Healthcare
-================================================================
 
 While artificial intelligence (AI) has the potential to revolutionize healthcare, it also comes with a number of challenges and risks that need to be addressed. In this chapter, we will explore some of the key challenges and risks associated with AI in healthcare.
 

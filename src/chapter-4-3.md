@@ -1,5 +1,3 @@
-Changes in Healthcare Delivery and Management
-====================================================================================
 
 Artificial intelligence (AI) is having a significant impact on healthcare, transforming the way that healthcare is delivered and managed. In this chapter, we will explore some of the key changes that AI is bringing to healthcare delivery and management.
 

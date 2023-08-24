@@ -1,5 +1,3 @@
-Chapter 2: Background and Fundamentals of Artificial Intelligence
-=================================================================
 
 To fully understand the impact that artificial intelligence (AI) is having on healthcare, it is important to have a basic understanding of the background and fundamentals of AI technology. In this chapter, we will explore the history of AI, the types of AI technologies that exist, and some of the machine learning techniques that are commonly used in AI applications.
 

@@ -1,5 +1,3 @@
-Legal Framework
-=================================================================================
 
 As the use of artificial intelligence (AI) technologies in healthcare continues to accelerate, it is important to consider the legal framework surrounding their use. In this chapter, we will examine some of the key challenges and risks associated with AI in healthcare from a legal perspective.
 

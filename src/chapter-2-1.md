@@ -1,5 +1,3 @@
-History of Artificial Intelligence
-=====================================================================================================
 
 Artificial intelligence (AI) has a rich history that dates back to the 1950s. In this chapter, we will explore the history of AI, including its early pioneers, significant breakthroughs, and current state of development.
 

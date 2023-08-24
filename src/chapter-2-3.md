@@ -1,5 +1,3 @@
-Machine Learning Techniques
-==============================================================================================
 
 To understand how artificial intelligence (AI) is transforming healthcare, it is important to have a basic understanding of the underlying technology. In this chapter, we will explore one of the fundamental areas of AI in healthcare: machine learning techniques.
 

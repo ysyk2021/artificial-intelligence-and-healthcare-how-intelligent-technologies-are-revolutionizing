@@ -1,5 +1,3 @@
-Chapter 7: Future of AI and Healthcare
-======================================
 
 As artificial intelligence (AI) continues to develop and evolve, it is poised to transform the healthcare industry in ways that are difficult to imagine today. In this chapter, we will explore some of the emerging trends and potential developments that could shape the future of AI and healthcare.
 

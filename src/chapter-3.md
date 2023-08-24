@@ -1,5 +1,3 @@
-Chapter 3: Current State of AI in Healthcare
-============================================
 
 Artificial intelligence (AI) is already making a significant impact on healthcare delivery, medical research, and patient care. In this chapter, we will explore the current state of AI in healthcare, including examples of AI applications today and trends in AI adoption.
 

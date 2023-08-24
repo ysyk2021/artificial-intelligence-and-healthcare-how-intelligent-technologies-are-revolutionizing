@@ -1,5 +1,3 @@
-Health Monitoring and Tracking
-==========================================================================
 
 One of the most promising applications of artificial intelligence (AI) in healthcare is in the area of health monitoring and tracking. By leveraging AI-powered tools, doctors and other healthcare professionals can collect and analyze vast amounts of patient data, providing them with valuable insights into patient health and enabling them to make more accurate diagnoses and treatment decisions.
 

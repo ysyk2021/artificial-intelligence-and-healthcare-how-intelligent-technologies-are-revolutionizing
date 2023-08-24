@@ -1,5 +1,3 @@
-Trends in AI Adoption in Healthcare
-=================================================================================
 
 Artificial intelligence (AI) is rapidly transforming healthcare, with numerous applications across various medical fields. In this chapter, we will explore the current state of AI in healthcare, including trends in AI adoption and the challenges faced by organizations implementing AI in their operations.
 

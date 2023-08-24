@@ -1,5 +1,3 @@
-Chapter 8: Case Studies of AI in Healthcare
-===========================================
 
 In this chapter, we will explore several case studies of successful implementations of artificial intelligence (AI) in different medical fields.
 

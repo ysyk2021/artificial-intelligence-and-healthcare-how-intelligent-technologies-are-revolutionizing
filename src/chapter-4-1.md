@@ -1,5 +1,3 @@
-Diagnosis and Treatment Accuracy
-=======================================================================
 
 Artificial intelligence (AI) is having a significant impact on healthcare, with particular benefits in improving the accuracy of diagnosis and treatment. In this chapter, we will explore how AI is being used to improve accuracy in healthcare and the potential benefits for patients.
 

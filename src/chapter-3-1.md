@@ -1,5 +1,3 @@
-Examples of AI Applications Today
-===============================================================================
 
 Artificial intelligence (AI) has already begun to transform healthcare, with numerous applications across various areas of the industry. In this chapter, we will explore some examples of AI applications that are currently being used in healthcare.
 

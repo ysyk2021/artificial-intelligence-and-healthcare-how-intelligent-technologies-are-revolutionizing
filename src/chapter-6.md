@@ -1,5 +1,3 @@
-Chapter 6: AI-Powered Healthcare Solutions
-==========================================
 
 As artificial intelligence (AI) continues to evolve and become more sophisticated, it is increasingly being used to power healthcare solutions that are revolutionizing medical research and patient care. In this chapter, we will explore some of the key AI-powered healthcare solutions that are currently being developed and deployed.
 

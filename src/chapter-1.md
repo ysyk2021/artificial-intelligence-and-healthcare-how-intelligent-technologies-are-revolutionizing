@@ -1,5 +1,3 @@
-Chapter 1: Introduction
-=======================
 
 In recent years, artificial intelligence (AI) has become increasingly important in the healthcare industry, with researchers and healthcare providers alike recognizing the potential of AI to revolutionize medical research and patient care. In this chapter, we will provide an overview of AI and healthcare, and introduce the purpose of this book.
 

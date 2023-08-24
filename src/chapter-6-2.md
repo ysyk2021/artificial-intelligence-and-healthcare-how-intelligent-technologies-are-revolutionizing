@@ -1,5 +1,3 @@
-Medical Imaging and Diagnostics
-===========================================================================
 
 Artificial intelligence (AI) is revolutionizing healthcare by providing healthcare providers with powerful tools to improve medical imaging and diagnostics. By analyzing large amounts of data, including medical images and patient data, AI-powered tools can identify potential health issues and enable healthcare providers to develop personalized treatment plans.
 
