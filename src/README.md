@@ -12,3 +12,7 @@ AI has several subfields, including natural language processing, machine learnin
 In conclusion, this book aims to explore the emerging field of AI in healthcare and demonstrate how this intelligent technology is revolutionizing medical research and patient care. It will cover various topics related to the application of AI in healthcare, including medical imaging, drug discovery, precision medicine, and patient engagement. By the end of this book, readers will have gained a solid understanding of how AI can be applied to healthcare and how this technology is transforming the future of medicine and patient care.
 
 MingHai Zheng is the founder of zhengpublishing.com and lives in Wuhan, China. His main publishing areas are business, management, self-help, computers and other emerging foreword fields.
+
+Please Buy Me a Coffee to support us if you think this book is valuable to you. click this link:
+
+https://www.buymeacoffee.com/minghaizheng
