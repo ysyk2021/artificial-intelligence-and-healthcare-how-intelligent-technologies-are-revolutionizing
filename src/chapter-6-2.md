@@ -1,5 +1,4 @@
-Chapter: Medical Imaging and Diagnostics
-========================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 Medical imaging and diagnostics play a vital role in healthcare, enabling the detection, diagnosis, and treatment of various medical conditions. The integration of artificial intelligence (AI) and intelligent technologies has revolutionized medical imaging, enhancing accuracy, efficiency, and patient care. In this chapter, we will explore the advancements and impact of AI in medical imaging and diagnostics.
 

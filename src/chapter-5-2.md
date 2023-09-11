@@ -1,5 +1,4 @@
-Chapter: Ethical Considerations
-===============================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In recent years, the rapid advancement of artificial intelligence (AI) and its applications in healthcare has brought forth numerous ethical considerations. As intelligent technologies continue to revolutionize medical research and patient care, it is crucial to address the ethical implications that arise from their use. This chapter explores some of the key ethical considerations associated with AI in healthcare.
 

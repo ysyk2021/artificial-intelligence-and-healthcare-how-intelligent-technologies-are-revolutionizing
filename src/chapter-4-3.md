@@ -1,5 +1,4 @@
-Chapter: Changes in Healthcare Delivery and Management
-======================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 The integration of artificial intelligence (AI) and intelligent technologies has brought about significant changes in healthcare delivery and management. These advancements have the potential to revolutionize medical research, improve patient care, and enhance overall healthcare outcomes. In this chapter, we will explore the transformative impact of AI on healthcare delivery and management.
 

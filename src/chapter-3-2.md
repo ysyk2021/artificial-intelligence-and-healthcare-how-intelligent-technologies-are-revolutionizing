@@ -1,5 +1,4 @@
-Chapter: Trends in AI Adoption in Healthcare
-============================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 Artificial intelligence (AI) has witnessed a rapid rise in healthcare, transforming medical research and patient care. This chapter explores the latest trends in AI adoption within the healthcare industry, highlighting the key areas where intelligent technologies are making a significant impact.
 

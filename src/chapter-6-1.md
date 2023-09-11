@@ -1,5 +1,4 @@
-Chapter: Drug Discovery and Development
-=======================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 The process of drug discovery and development is complex, time-consuming, and expensive. However, with the integration of artificial intelligence (AI) and intelligent technologies, there has been a significant revolution in this field. AI has the potential to accelerate and optimize various stages of drug discovery and development, leading to more efficient and effective therapeutic interventions. In this chapter, we will explore the advancements and impact of AI in drug discovery and development.
 

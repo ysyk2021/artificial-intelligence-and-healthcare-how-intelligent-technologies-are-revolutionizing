@@ -1,5 +1,4 @@
-Chapter: Examples of AI Applications Today
-==========================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 Artificial intelligence (AI) is advancing healthcare by revolutionizing medical research and patient care. This chapter explores some compelling examples of AI applications that are transforming the healthcare landscape and improving outcomes for patients.
 

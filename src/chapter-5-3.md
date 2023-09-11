@@ -1,5 +1,4 @@
-Chapter: Legal Framework
-========================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In recent years, the rapid advancement of artificial intelligence (AI) and its applications in healthcare has raised numerous legal and ethical concerns. As intelligent technologies continue to revolutionize medical research and patient care, it is essential to establish a robust legal framework that ensures transparency, privacy, accountability, and ethical use of AI in healthcare settings.
 
